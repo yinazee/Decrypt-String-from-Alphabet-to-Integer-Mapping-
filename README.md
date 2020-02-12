@@ -1,10 +1,6 @@
 # Decrypt-String-from-Alphabet-to-Integer-Mapping-
 Leetcode Challege - Javascript
 
-test
-test
-test
-code not committing
 
 var freqAlphabets = function(s) {
     const CHAR_CODE_OFFSET = 96;
